@@ -1,0 +1,1 @@
+This is mainly used to study javascript
